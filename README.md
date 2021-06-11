@@ -8,6 +8,7 @@
 
 
 ## Overview
+
 As medical technology advances, the rate of preventable child mortality decreases. Lowering child mortality rates has become a key goal in advancing any society and a key in human progress as a whole. While many advancements have improved the mortality rate, not all of these practices are globally available. To reduce mortality rates in cost-effective and readily available solutions need to be applied and perfected.
 
 One such cost-effective and relatively simple method would be the use of Cardiotocograms (CTG). The CTG is a non-invasive fetal monitor which is used to assess fetal health. The CTG is used to detect fetal heart rate (FHR), uterine contractions, fetal movement, and sudden heart rate changes. Extreme changes to the FHR result in surgical intervention through the use of cesarian delivery(C-section). Currently, doctors rely on a visual analysis of the CTG, leading to erroneous exam interpretations. Minute changes which may be extremely detrimental to fetal health may also not be visible to the naked eye.
